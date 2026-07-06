@@ -3,22 +3,15 @@ Write your own intro here — a couple of lines about who you are and what you'r
 (Left blank on purpose — this is yours to fill in.)
 -->
 
-## 📌 Featured
 
-- **[donna-ai](https://github.com/antonysa23-meet/donna-ai)** — core/frontend layer of Donna, an AI assistant
-- **[WellnestAuto](https://github.com/antonysa23-meet/WellnestAuto)** — automation tooling built for Wellnest
-- **[OutdoorsFixNeeded](https://github.com/antonysa23-meet/OutdoorsFixNeeded)** — AI assistant project for Outdoors, a startup
-- **[mosquito-surveillance-ocr](https://github.com/antonysa23-meet/mosquito-surveillance-ocr)** — OCR pipeline for digitizing mosquito surveillance records
-- **[digital-accessibility](https://digital-accessibility-ten.vercel.app)** — digital accessibility auditing tool, deployed on Vercel
-- **[timeControl](https://github.com/antonysa23-meet/timeControl)** — Android time-tracking/control app
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a6502e69-e0e5-45ef-bf48-3130acd269db" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f9fff6c2-1ab7-4926-88f6-4b56d5785f6e" />
 
-## 🕰️ History by year
+## Welcome to a nice cornern in the internet
 
-- **2022** — started with Flask/Firebase fundamentals, first personal projects (Hospikol, CS-Project)
-- **2023** — SwiftAid, LASMUN, Minecraft_Modding
-- **2025** — freelance/campus sites (LILIE, McMurtry, Baret), Donna AI assistant + WhatsApp integration, Transform-VC
-- **2026** — Job-Automation, digital-accessibility, mosquito-surveillance-ocr, OutdoorsFixNeeded, WellnestAuto, timeControl
+Vibing and coding
 
-## 📊 Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonysa23-meet&show_icons=true&hide_title=true)
+<img width="200" height="161" alt="image" src="https://github.com/user-attachments/assets/f6de7f05-d5d8-4fd3-a413-54d43e36dbc7" />
+<img width="200" height="161" alt="image" src="https://github.com/user-attachments/assets/3486f607-90ea-4ca9-917b-89e218d1341a" />
+<img width="200" height="161" alt="image" src="https://github.com/user-attachments/assets/436072a5-a041-4a85-9e98-500abbca511d" />
+<img width="200" height="161" alt="image" src="https://github.com/user-attachments/assets/436072a5-a041-4a85-9e98-500abbca511d" />
